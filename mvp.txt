@@ -1,0 +1,36 @@
+MVP
+
+Login
+Registration
+profile
+channels
+group messaging
+direct messaging
+chat window
+
+User Stories
+
+Registration/Login
+As a user, I want to be able to create a username, password, and email combo so that I can log into the chat application.
+As a user, I want to be able to put in my username and password and be sent to the chat screen of my choice.
+As a user, I want to have a button that will allow me to reset my password via email in case I forget it.
+
+Channels story
+As a user, I want to...
+-be to see multiple channels so that I can differentiate topics.
+-be able to create and remove channels so I have the channels I want in my view.
+-be able to edit channels so I can change names
+-be able to see who is in the channel to keep trackof who's in the chat
+
+Profiles story
+As a user I want to be able to have and edit a profile name and picture so I can differentiate each user.
+As a user I want to be able to edit/update my profile information
+
+Group/direct messaging story
+As a user, I want to...
+-be able to send group/direct messages or in a channel so that it can be separate from each other.
+
+Chat window story 
+As a user, I want to be able to display all messages so I can see them.
+As a user, I want to be able to create a message to display.
+As a user, I want to be able to see who sent the message.

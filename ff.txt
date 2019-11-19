@@ -1,0 +1,57 @@
+Future Features
+
+Priority
+notifications
+searching
+invite
+responsive
+timestamps
+tagging
+pinning
+darkmode/theming
+status
+emojis/gifs
+message count
+
+Live typing
+icons
+emojis
+gifs
+organizations
+video / audio 
+calls
+text options
+dark mode 
+likes and reactions
+friends
+file storage
+roles in channels
+newsfeed
+screen sharing
+send emails
+snippets
+internationalization
+notification options
+pinning topics x
+see who's online
+Room topics
+DND
+plugins
+unsend messages
+blocking
+theming
+mobile app
+embedded videos
+polling
+message counts
+shortcut commands
+share buttons
+scheduled messages
+feedback
+favorites
+tagging
+calendar integration
+timestamps x
+read notifications
+todo list
+draft area
