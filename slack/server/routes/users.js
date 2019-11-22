@@ -8,9 +8,7 @@ const jwt = require('jsonwebtoken')
 router.post("/register", (req, res, next) => {
   const salt = uuid()
   const username = req.body.username
-  console.log(req.body.password + salt)
   const password = sha512(req.body.password + salt)
-  console.log(password)
 
   const sql = `INSERT INTO users (username, password, salt) VALUES (?, ?, ?)`
 
